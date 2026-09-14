@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/afifasyed123/dsanew/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/afifasyed123/dsanew/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/afifasyed123/dsanew/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
